@@ -1,0 +1,19 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_master_writingtools.git
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: master
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: master
+
+- dir: src/latex_gen
+  url: git@github.com:AndreaCensi/latex_gen.git
+  branch: master
+
+- dir: src/latex_symbol_list
+  url: git@github.com:AndreaCensi/latex_symbol_list.git
+  branch: master
+
