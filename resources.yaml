@@ -17,3 +17,10 @@
   url: git@github.com:AndreaCensi/latex_symbol_list.git
   branch: master
 
+- dir: src/latex_deps
+  url: git@github.com:AndreaCensi/latex_deps.git
+  branch: master
+
+- dir: src/lyx_sections
+  url: git@github.com:AndreaCensi/lyx_sections.git
+  branch: master
