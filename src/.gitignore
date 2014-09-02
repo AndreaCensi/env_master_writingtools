@@ -3,3 +3,5 @@ latex_gen
 latex_symbol_list
 latex_deps
 lyx_sections
+compmake
+quickapp

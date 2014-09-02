@@ -5,6 +5,11 @@
   url: git@github.com:AndreaCensi/writingtools.git
   branch: master
 
+- dir: docs/templates
+  url: git@github.com:AndreaCensi/templates.git
+  branch: master
+
+
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
   branch: master
@@ -24,3 +29,11 @@
 - dir: src/lyx_sections
   url: git@github.com:AndreaCensi/lyx_sections.git
   branch: master
+
+- dir: src/compmake
+  url: git@github.com:AndreaCensi/compmake.git
+  branch: env_master_writingtools
+
+- dir: src/quickapp
+  url: git@github.com:AndreaCensi/quickapp.git
+  branch: env_master_writingtools

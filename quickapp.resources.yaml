@@ -1,0 +1,7 @@
+- dir: src/compmake
+  url: git@github.com:AndreaCensi/compmake.git
+  branch: master
+
+- dir: src/quickapp
+  url: git@github.com:AndreaCensi/quickapp.git
+  branch: master
