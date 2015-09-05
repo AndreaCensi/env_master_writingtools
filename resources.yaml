@@ -6,7 +6,7 @@
   branch: master
 
 - dir: docs/templates
-  url: git@github.com:AndreaCensi/templates.git
+  url: git@github.mit.edu:censi/templates.git
   branch: master
 
 
